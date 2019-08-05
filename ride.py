@@ -1,1 +1,2 @@
-:hello ipython world
+class Ride():
+    pass
